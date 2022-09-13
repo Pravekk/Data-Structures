@@ -8,6 +8,6 @@
 8Q:-To compile and execute a C source code to search for an element in the array using linear search algorithm. 
 9Q:-To compile and execute a C source code to search for an element in the array using binary search algorithm.
 10:-To compile and execute a C source code to insert an element in the array at the end of the array.
-11:-
+11:-To compile and execute a C source code to delete an element in the array at the end of the array.
 12:-
 13:-
