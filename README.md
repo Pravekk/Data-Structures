@@ -6,4 +6,8 @@
 6Q:-To compile and execute a C source code to calculate factorial of a given number using recursion.
 7Q:-To compile and execute a C source code to calculate fibonacci series of a given number using recursion. 
 8Q:-To compile and execute a C source code to search for an element in the array using linear search algorithm. 
-9Q:-
+9Q:-To compile and execute a C source code to search for an element in the array using binary search algorithm.
+10:-
+11:-
+12:-
+13:-
