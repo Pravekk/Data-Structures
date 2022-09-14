@@ -10,4 +10,11 @@
 10:-To compile and execute a C source code to insert an element in the array at the end of the array.
 11:-To compile and execute a C source code to delete an element in the array at the end of the array.
 12:-To compile and execute a C  source code to perform linear stack operations. 
-13:-
+13:-To compile and execute a C  source code to perform linear stack operations. 
+14:-
+15:-
+16:-
+17:-
+18:-
+19:-
+20:-
