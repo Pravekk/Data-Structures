@@ -7,14 +7,14 @@
 7Q:-To compile and execute a C source code to calculate fibonacci series of a given number using recursion. 
 8Q:-To compile and execute a C source code to search for an element in the array using linear search algorithm. 
 9Q:-To compile and execute a C source code to search for an element in the array using binary search algorithm.
-10:-To compile and execute a C source code to insert an element in the array at the end of the array.
-11:-To compile and execute a C source code to delete an element in the array at the end of the array.
-12:-To compile and execute a C  source code to perform linear stack operations. 
-13:-To compile and execute a C  source code to perform linear stack operations. 
-14:-To compile and execute a C  source code to perform linked list operations. 
-15:-To compile and execute a C  source code to perform binary tree traversal operations. 
-16:-
-17:-
-18:-
-19:-
-20:-
+10Q:-To compile and execute a C source code to insert an element in the array at the end of the array.
+11Q:-To compile and execute a C source code to delete an element in the array at the end of the array.
+12Q:-To compile and execute a C  source code to perform linear stack operations. 
+13Q:-To compile and execute a C  source code to perform linear stack operations. 
+14Q:-To compile and execute a C  source code to perform linked list operations. 
+15Q:-To compile and execute a C  source code to perform binary tree traversal operations. 
+16Q:-To compile and execute a C  source code to perform binary search tree operations
+17Q:-
+18Q:-
+19Q:-
+20Q:-
