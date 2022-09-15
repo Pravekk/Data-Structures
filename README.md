@@ -12,7 +12,7 @@
 12:-To compile and execute a C  source code to perform linear stack operations. 
 13:-To compile and execute a C  source code to perform linear stack operations. 
 14:-To compile and execute a C  source code to perform linked list operations. 
-15:-
+15:-To compile and execute a C  source code to perform binary tree traversal operations. 
 16:-
 17:-
 18:-
