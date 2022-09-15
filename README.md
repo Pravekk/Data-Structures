@@ -16,5 +16,5 @@
 16Q:-To compile and execute a C  source code to perform binary search tree operations
 17Q:-
 18Q:-
-19Q:-
+19Q:-To compile and execute a C  source code to perform Merge sort. 
 20Q:-
