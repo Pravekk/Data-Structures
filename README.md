@@ -11,7 +11,7 @@
 11:-To compile and execute a C source code to delete an element in the array at the end of the array.
 12:-To compile and execute a C  source code to perform linear stack operations. 
 13:-To compile and execute a C  source code to perform linear stack operations. 
-14:-
+14:-To compile and execute a C  source code to perform linked list operations. 
 15:-
 16:-
 17:-
